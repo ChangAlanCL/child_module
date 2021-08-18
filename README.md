@@ -1,2 +1,2 @@
 # child_module
-For test git submodule
+I am the submodule
